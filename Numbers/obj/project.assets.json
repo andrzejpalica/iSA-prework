@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andrzej.palica\\Source\\Repos\\andrzejpalica\\iSA-prework\\IntroductionToCS\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\andrzej.palica\\Source\\Repos\\andrzejpalica\\iSA-prework\\IntroductionToCS\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\andrzej.palica\\Source\\Repos\\andrzejpalica\\iSA-prework\\Numbers\\Numbers.csproj",
+      "projectName": "Numbers",
+      "projectPath": "C:\\Users\\andrzej.palica\\Source\\Repos\\andrzejpalica\\iSA-prework\\Numbers\\Numbers.csproj",
       "packagesPath": "C:\\Users\\andrzej.palica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andrzej.palica\\Source\\Repos\\andrzejpalica\\iSA-prework\\IntroductionToCS\\obj\\",
+      "outputPath": "C:\\Users\\andrzej.palica\\Source\\Repos\\andrzejpalica\\iSA-prework\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andrzej.palica\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,3 +14,11 @@ C:\Users\andrzej.palica\source\repos\IntroductionToCS\obj\Debug\net5.0\Introduct
 C:\Users\andrzej.palica\source\repos\IntroductionToCS\obj\Debug\net5.0\ref\IntroductionToCS.dll
 C:\Users\andrzej.palica\source\repos\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.pdb
 C:\Users\andrzej.palica\source\repos\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.genruntimeconfig.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.csproj.AssemblyReference.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.AssemblyInfoInputs.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.AssemblyInfo.cs
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.csproj.CoreCompileInputs.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\ref\IntroductionToCS.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\IntroductionToCS\obj\Debug\net5.0\IntroductionToCS.pdb
