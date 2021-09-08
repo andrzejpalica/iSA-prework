@@ -1,0 +1,15 @@
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ListCollections.exe
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ListCollections.deps.json
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ListCollections.runtimeconfig.json
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ListCollections.runtimeconfig.dev.json
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ListCollections.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ref\ListCollections.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\bin\Debug\net5.0\ListCollections.pdb
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.AssemblyInfoInputs.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.AssemblyInfo.cs
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.csproj.CoreCompileInputs.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ref\ListCollections.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.pdb
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\ListCollections\obj\Debug\net5.0\ListCollections.genruntimeconfig.cache
