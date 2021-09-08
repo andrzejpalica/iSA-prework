@@ -1,0 +1,16 @@
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\BranchesAndLoops.exe
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\BranchesAndLoops.deps.json
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\BranchesAndLoops.runtimeconfig.json
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\BranchesAndLoops.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\ref\BranchesAndLoops.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\bin\Debug\net5.0\BranchesAndLoops.pdb
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.csproj.AssemblyReference.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\ref\BranchesAndLoops.dll
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.pdb
+C:\Users\andrzej.palica\Source\Repos\andrzejpalica\iSA-prework\BranchesAndLoops\obj\Debug\net5.0\BranchesAndLoops.genruntimeconfig.cache
